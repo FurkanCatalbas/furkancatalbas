@@ -25,8 +25,8 @@ I approach backend development as system design: how components communicate, how
 
 | Layer | Technologies |
 |---|---|
-| **Primary** | C# / .NET |
-| **Secondary** | Go · Java |
+| **Primary** | Java / Spring Boot |
+| **Secondary** | C# / .NET |
 | **Data** | PostgreSQL · Redis |
 | **Architecture** | Microservices · Event-Driven · REST APIs · Clean/Onion |
 | **AI** | ML.NET · FastAPI |

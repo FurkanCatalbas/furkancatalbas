@@ -52,7 +52,7 @@ I build services where ML components are treated as first-class parts of the arc
 
 ## Selected Projects
 
-- **[restaurant-digital-service-platform](https://github.com/SMutaf/restaurant-digital-service-platform)**  
+- **[restaurant-digital-service-platform](https://github.com/FurkanCatalbas/CafeProject)**  
 Digital restaurant & café management system with QR-based menus, staff-managed ordering, real-time tracking, and customer-driven music voting.  
 → Focus: business-critical workflows, modular architecture, real-time state handling
 
